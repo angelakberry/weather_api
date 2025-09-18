@@ -1,0 +1,6 @@
+City,Temperature (F),Condition,Humidity,Wind (mph),Sunrise,Sunset,3-Day Forecast
+Louisville,73.0,Clear,55,3.6,07:27 AM,07:48 PM,"Wednesday, September 17: High 93.2F, Low 67.1F - Sunny | Thursday, September 18: High 91.8F, Low 66.7F - Sunny | Friday, September 19: High 88.0F, Low 66.9F - Sunny"
+New York,69.1,Partly cloudy,73,8.9,06:39 AM,07:01 PM,"Wednesday, September 17: High 66.9F, Low 61.5F - Overcast  | Thursday, September 18: High 86.2F, Low 66.7F - Cloudy  | Friday, September 19: High 79.3F, Low 67.2F - Sunny"
+Los Angeles,71.1,Partly cloudy,76,4.9,06:38 AM,06:56 PM,"Wednesday, September 17: High 85.3F, Low 73.0F - Overcast  | Thursday, September 18: High 82.4F, Low 66.9F - Heavy rain | Friday, September 19: High 81.9F, Low 71.4F - Cloudy "
+Chicago,75.0,Clear,54,4.3,06:33 AM,06:56 PM,"Wednesday, September 17: High 79.5F, Low 63.9F - Sunny | Thursday, September 18: High 81.9F, Low 65.3F - Sunny | Friday, September 19: High 78.3F, Low 64.4F - Partly Cloudy "
+Miami,81.0,Overcast,79,16.3,07:08 AM,07:23 PM,"Wednesday, September 17: High 86.5F, Low 76.6F - Moderate rain | Thursday, September 18: High 81.3F, Low 77.9F - Heavy rain | Friday, September 19: High 83.5F, Low 79.9F - Heavy rain"
